@@ -17,7 +17,7 @@ https://spencerhill97.github.io/sign-up-form/
 
 ## Screenshots
 
-<img src="https://github.com/spencerhill97/sign-up-form/assets/113248092/7cb2636d-edc7-4e3a-8ee2-d635fbeac147" width="400px" />
+<img src="https://github.com/spencerhill97/sign-up-form/assets/113248092/7cb2636d-edc7-4e3a-8ee2-d635fbeac147"  />
 
 
 
